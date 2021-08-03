@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="157.582" height="86.684" viewBox="0 0 157.582 86.684">
+  <g id="logo" transform="translate(-504.298 -145.547)">
+    <g id="Group_10" data-name="Group 10" transform="translate(492 145.547)">
+      <g id="Group_4" data-name="Group 4" transform="translate(12.298)">
+        <g id="Group_2" data-name="Group 2" transform="translate(0)">
+          <g id="Group_3" data-name="Group 3">
+            <text id="BH_" data-name="BH     " transform="translate(0 56.919)" fill="#63c9ef" font-size="46" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve">BH     </tspan></text>
+            <text id="_om" data-name=" om" transform="translate(72.582 53)" fill="#707070" font-size="49" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve"> om</tspan></text>
+            <path id="phone2" d="M17.786,33.349c-.05-.034-5.788-9.682-5.807-9.806-1.187-2.593-2.144-5.244-.149-6.421L3.549,3.158C1.4,4.762-4.667,13.469,6.695,33.2c11.969,20.794,23.36,19.93,25.644,18.522l-8.07-13.631C22.361,39.214,20.755,37.365,17.786,33.349ZM37.877,46.43l0-.011S31.577,35.8,31.573,35.8a1.763,1.763,0,0,0-2.411-.618L25.3,37.462l8.093,13.671s3.861-2.272,3.859-2.28h.008A1.759,1.759,0,0,0,37.877,46.43Zm-21.13-32.2v-.008a1.751,1.751,0,0,0,.62-2.413l0-.011S10.888.865,10.884.863A1.758,1.758,0,0,0,8.475.245L4.614,2.528,12.885,16.5S16.745,14.232,16.747,14.226Z" transform="translate(75.133 9.059) rotate(30)" fill="#76706b"/>
+          </g>
+        </g>
+        <text id="KOMUNIKACIJE" transform="translate(23.695 83.684)" fill="#63c9ef" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.09em"><tspan x="0" y="0">KOMUNIKACIJE</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

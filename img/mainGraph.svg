@@ -1,0 +1,235 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="692.328" height="596.195" viewBox="0 0 692.328 596.195">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="172.725" height="3.552" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="170.725" height="3.552" fill="none"/>
+    </clipPath>
+    <filter id="Ellipse_643" x="632.246" y="308.902" width="60.081" height="64.293" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <rect width="180.662" height="3.85" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect width="162.662" height="3.85" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect width="179.93" height="3.071" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect width="136.745" height="50.612" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect width="36" height="49" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect width="161.544" height="3.071" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect width="93.679" height="3.85" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4016" data-name="Group 4016" transform="translate(-1039 -298.325)">
+    <g id="Group_4003" data-name="Group 4003" transform="translate(1075 563.372)">
+      <g id="Group_3999" data-name="Group 3999" transform="translate(76.469 3.45)">
+        <g id="Group_3997" data-name="Group 3997" transform="translate(0)">
+          <path id="Path_1471" data-name="Path 1471" d="M1253.437,866.631V831.981l128.573,27.612v41Z" transform="translate(-1105.351 -794.051)" fill="#fff"/>
+          <path id="Path_1472" data-name="Path 1472" d="M1253.437,796.853l52.035-37.93,124.1,30.438-47.6,39.761Z" transform="translate(-1105.351 -758.923)" fill="#9ceeff"/>
+          <path id="Path_1473" data-name="Path 1473" d="M1265.972,869.979V849.226L1370.2,876.161v22.961l-104.233-27.156Z" transform="translate(-1105.428 -801.823)" fill="#858585"/>
+          <path id="Path_1474" data-name="Path 1474" d="M1434.408,893.334l47.637-46.767V817.116l-47.637,39.811Z" transform="translate(-1157.749 -786.794)" fill="#3addff" opacity="0.51"/>
+          <circle id="Ellipse_642" data-name="Ellipse 642" cx="2.487" cy="2.487" r="2.487" transform="translate(166.958 58.845)" fill="#fff"/>
+          <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(341.731 58.845)" clip-path="url(#clip-path)">
+            <g transform="translate(-1317 -839)">
+              <line id="Line_1" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+            </g>
+            <g transform="translate(-1255 -839)">
+              <line id="Line_1-2" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+            </g>
+            <g transform="translate(-1193 -839)">
+              <line id="Line_1-3" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+            </g>
+          </g>
+          <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(-35 58.346)" clip-path="url(#clip-path-2)">
+            <g transform="translate(-1317 -839)">
+              <line id="Line_1-4" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+            </g>
+            <g transform="translate(-1255 -839)">
+              <line id="Line_1-5" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+            </g>
+            <g transform="translate(-1193 -839)">
+              <line id="Line_1-6" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3998" data-name="Group 3998" transform="translate(519.41 -9.478)">
+          <path id="Path_1478" data-name="Path 1478" d="M1650.735,816.57v66.563l44.142,27.326V843.195Z" transform="translate(-1645.353 -784.141)" fill="#3addff"/>
+          <path id="Path_1475" data-name="Path 1475" d="M1650.735,816.57v66.563l44.142,27.326V843.195Z" transform="translate(-1647.105 -786.769)" fill="#9ceeff"/>
+          <path id="Path_1476" data-name="Path 1476" d="M1649.973,820.862l-5.382-3.774V782.554" transform="translate(-1644.591 -782.554)" fill="none" stroke="#9ceeff" stroke-width="3"/>
+          <path id="Path_1479" data-name="Path 1479" d="M1645.844,818.691l5.571,3.734-.3-39.871" transform="translate(-1598.189 -757.148)" fill="none" stroke="#3addff" stroke-width="3"/>
+          <path id="Path_1477" data-name="Path 1477" d="M1645.844,818.691l5.571,3.734-.3-39.871" transform="translate(-1599.065 -757.148)" fill="none" stroke="#9ceeff" stroke-width="3"/>
+          <g transform="matrix(1, 0, 0, 1, -631.88, -259.02)" filter="url(#Ellipse_643)">
+            <ellipse id="Ellipse_643-2" data-name="Ellipse 643" cx="14.017" cy="18.836" rx="14.017" ry="18.836" transform="matrix(0.89, -0.45, 0.45, 0.89, 636.25, 325.63)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_4002" data-name="Group 4002" transform="translate(-36 0)">
+        <rect id="Rectangle_1488" data-name="Rectangle 1488" width="31.047" height="17.386" rx="8.693" transform="matrix(0.788, 0.616, -0.616, 0.788, 44.281, 61.464)" fill="#9ceeff"/>
+        <g id="Rectangle_1487" data-name="Rectangle 1487" transform="translate(13.27 35.342) rotate(11)" fill="#63c9ef" stroke="#9ceeff" stroke-width="3">
+          <rect width="50.639" height="69.546" rx="13" stroke="none"/>
+          <rect x="1.5" y="1.5" width="47.639" height="66.546" rx="11.5" fill="none"/>
+        </g>
+        <g id="Rectangle_1489" data-name="Rectangle 1489" transform="matrix(0.978, 0.208, -0.208, 0.978, 31.556, 0)" fill="#fff" stroke="#9ceeff" stroke-width="4">
+          <rect width="28.118" height="92.559" rx="7" stroke="none"/>
+          <rect x="2" y="2" width="24.118" height="88.559" rx="5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4006" data-name="Group 4006" transform="translate(1100.212 298.325)">
+      <g id="Group_4004" data-name="Group 4004" transform="translate(97.551)">
+        <path id="Path_1480" data-name="Path 1480" d="M1650.735,816.57V920.346l53.431,42.6V858.08Z" transform="translate(-1496.371 -810.079)" fill="#9ceeff"/>
+        <path id="Path_1481" data-name="Path 1481" d="M1524.427,459.859l19-18.915V344.728l-19.112,10.182Z" transform="translate(-1316.633 -306.989)" fill="#3addff"/>
+        <path id="Path_1482" data-name="Path 1482" d="M1531.2,336.063l-49.905-37.739-22.493,6.522,53.324,41.652Z" transform="translate(-1304.398 -298.325)" fill="#2ac8e9"/>
+        <g id="Repeat_Grid_4" data-name="Repeat Grid 4" transform="translate(-39 72.589)" clip-path="url(#clip-path-3)">
+          <g transform="translate(-1317 -839)">
+            <line id="Line_1-7" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+          </g>
+          <g transform="translate(-1255 -839)">
+            <line id="Line_1-8" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+          </g>
+          <g transform="translate(-1193 -839)">
+            <line id="Line_1-9" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+          </g>
+        </g>
+        <g id="Repeat_Grid_5" data-name="Repeat Grid 5" transform="translate(239.103 72.589)" clip-path="url(#clip-path-4)">
+          <g transform="translate(-1317 -839)">
+            <line id="Line_1-10" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+          </g>
+          <g transform="translate(-1255 -839)">
+            <line id="Line_1-11" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+          </g>
+          <g transform="translate(-1193 -839)">
+            <line id="Line_1-12" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_4005" data-name="Group 4005" transform="translate(-28 27.387)">
+        <path id="Path_1483" data-name="Path 1483" d="M35.784,0A35.784,35.784,0,0,1,71.568,35.784c0,9.96-17.556,47.069-35.784,46.989C18.23,82.7,0,45.587,0,35.784A35.784,35.784,0,0,1,35.784,0Z" transform="translate(0)" fill="#3addff"/>
+        <path id="Path_1484" data-name="Path 1484" d="M9.168,26.284c5.063,0,9.168-4.584,9.168-10.239,0-2.85-18.335-2.8-18.335,0C0,21.7,4.1,26.284,9.168,26.284Z" transform="translate(26.838 72.04)" fill="#9ceeff"/>
+        <rect id="Rectangle_1493" data-name="Rectangle 1493" width="26.838" height="8.133" rx="4.066" transform="translate(22.772 74.821)" fill="#9ceeff"/>
+        <rect id="Rectangle_1494" data-name="Rectangle 1494" width="21.958" height="7.319" rx="3.66" transform="translate(25.211 80.514)" fill="#9ceeff"/>
+        <rect id="Rectangle_1495" data-name="Rectangle 1495" width="17.079" height="4.88" rx="2.44" transform="translate(26.838 87.02)" fill="#9ceeff"/>
+      </g>
+      <g id="Group_4019" data-name="Group 4019" transform="translate(24)">
+        <path id="Path_1485" data-name="Path 1485" d="M1650.735,816.57v90.947l30.377,37.336v-91.9Z" transform="translate(-1160.248 -778.638)" fill="#9ceeff"/>
+        <path id="Path_1486" data-name="Path 1486" d="M1650.735,816.57V875.5l19.8,24.194V840.143Z" transform="translate(-1155.136 -756.427)" fill="#fff"/>
+        <g id="Group_4007" data-name="Group 4007" transform="translate(490.393 6.306)">
+          <path id="Path_1487" data-name="Path 1487" d="M1785.439,491.8l3.942-5.078v-90.3l-4,3.665Z" transform="translate(-1754.969 -331.895)" fill="#3addff"/>
+          <path id="Path_1488" data-name="Path 1488" d="M1747.986,355.867l3.218-2.714,31.193,35.227-3.952,3.609Z" transform="translate(-1747.986 -323.815)" fill="#2ac8e9"/>
+          <path id="wifi-full" d="M17.67,35.735l3.722,3.722a13.365,13.365,0,0,1,18.926,0l3.722-3.722a18.643,18.643,0,0,0-26.37,0ZM9.191,27.251l3.728,3.728a25.335,25.335,0,0,1,35.876,0l3.728-3.728a30.637,30.637,0,0,0-43.329,0ZM30.855,6.287A42.5,42.5,0,0,0,.708,18.776l3.73,3.73a37.315,37.315,0,0,1,52.835,0L61,18.776A42.5,42.5,0,0,0,30.855,6.287Zm0,34.92A3.943,3.943,0,1,0,34.8,45.15,3.944,3.944,0,0,0,30.855,41.207Z" transform="translate(-0.334 -6.287)" fill="#9ceeff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4015" data-name="Group 4015" transform="translate(1123.783 791.451)">
+      <g id="Group_4008" data-name="Group 4008" transform="translate(309.952 1.547)">
+        <g id="Group_4017" data-name="Group 4017" transform="translate(180.163 0)">
+          <rect id="Rectangle_1496" data-name="Rectangle 1496" width="56.7" height="101.521" rx="25" fill="#3addff"/>
+          <rect id="Rectangle_1497" data-name="Rectangle 1497" width="24.84" height="86.401" rx="12.42" transform="translate(8.1 7.56)" fill="#fff"/>
+          <circle id="Ellipse_644" data-name="Ellipse 644" cx="7.29" cy="7.29" r="7.29" transform="translate(38.34 66.421)" fill="#fff"/>
+        </g>
+        <g id="Repeat_Grid_6" data-name="Repeat Grid 6" transform="translate(0 47.712)" clip-path="url(#clip-path-5)">
+          <g transform="translate(-1317 -839)">
+            <line id="Line_1-13" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+          </g>
+          <g transform="translate(-1255 -839)">
+            <line id="Line_1-14" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+          </g>
+          <g transform="translate(-1193 -839)">
+            <line id="Line_1-15" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_4011" data-name="Group 4011" transform="translate(218.592 0)">
+        <g id="Group_4009" data-name="Group 4009" transform="translate(46.282)">
+          <g id="Rectangle_1498" data-name="Rectangle 1498" transform="translate(0)" fill="#fff" stroke="#9ceeff" stroke-width="9">
+            <rect width="29.961" height="102.739" stroke="none"/>
+            <rect x="4.5" y="4.5" width="20.961" height="93.739" fill="none"/>
+          </g>
+          <rect id="Rectangle_1500" data-name="Rectangle 1500" width="29.129" height="5.843" rx="2.921" transform="translate(29.545 51.857) rotate(180)" fill="#9ceeff"/>
+        </g>
+        <g id="Group_4010" data-name="Group 4010" transform="translate(0)">
+          <g id="Rectangle_1498-2" data-name="Rectangle 1498" transform="translate(0)" fill="#fff" stroke="#9ceeff" stroke-width="9">
+            <rect width="53.438" height="102.739" stroke="none"/>
+            <rect x="4.5" y="4.5" width="44.438" height="93.739" fill="none"/>
+          </g>
+          <rect id="Rectangle_1499" data-name="Rectangle 1499" width="51.126" height="5.843" rx="2.921" transform="translate(29.641 0.487) rotate(90)" fill="#9ceeff"/>
+          <rect id="Rectangle_1500-2" data-name="Rectangle 1500" width="51.977" height="5.843" rx="2.921" transform="translate(52.708 51.857) rotate(180)" fill="#9ceeff"/>
+        </g>
+        <g id="Group_4012" data-name="Group 4012" transform="translate(30.822 54.723)">
+          <rect id="Rectangle_1501" data-name="Rectangle 1501" width="3.244" height="16.871" rx="1.622" transform="translate(9.733)" fill="#2ac8e9"/>
+          <rect id="Rectangle_1502" data-name="Rectangle 1502" width="12.977" height="1.298" rx="0.649" transform="translate(0 5.191)" fill="#2ac8e9"/>
+        </g>
+      </g>
+      <g id="Group_4013" data-name="Group 4013" transform="translate(-30 1.844)">
+        <rect id="Rectangle_1503" data-name="Rectangle 1503" width="56.5" height="11.68" rx="5.84" transform="translate(0)" fill="#2ac8e9"/>
+        <rect id="Rectangle_1507" data-name="Rectangle 1507" width="56.5" height="11.68" rx="5.84" transform="translate(0 81.109)" fill="#2ac8e9"/>
+        <rect id="Rectangle_1504" data-name="Rectangle 1504" width="56.5" height="77.216" transform="translate(0 8.435)" fill="#3addff"/>
+        <circle id="Ellipse_645" data-name="Ellipse 645" cx="7.138" cy="7.138" r="7.138" transform="translate(21.46 67.483)" fill="#2ac8e9"/>
+        <g id="Repeat_Grid_11" data-name="Repeat Grid 11" transform="translate(9.975 15.82)" clip-path="url(#clip-path-7)">
+          <g id="Group_4018" data-name="Group 4018" transform="translate(-8.975 -15.82)">
+            <rect id="Rectangle_1508" data-name="Rectangle 1508" width="16" height="7" transform="translate(8.975 15.82)" fill="#fff"/>
+            <rect id="Rectangle_1509" data-name="Rectangle 1509" width="16" height="7" transform="translate(28.975 15.82)" fill="#fff"/>
+          </g>
+          <g id="Group_4018-2" data-name="Group 4018" transform="translate(-8.975 -5.82)">
+            <rect id="Rectangle_1508-2" data-name="Rectangle 1508" width="16" height="7" transform="translate(8.975 15.82)" fill="#fff"/>
+            <rect id="Rectangle_1509-2" data-name="Rectangle 1509" width="16" height="7" transform="translate(28.975 15.82)" fill="#fff"/>
+          </g>
+          <g id="Group_4018-3" data-name="Group 4018" transform="translate(-8.975 4.18)">
+            <rect id="Rectangle_1508-3" data-name="Rectangle 1508" width="16" height="7" transform="translate(8.975 15.82)" fill="#fff"/>
+            <rect id="Rectangle_1509-3" data-name="Rectangle 1509" width="16" height="7" transform="translate(28.975 15.82)" fill="#fff"/>
+          </g>
+          <g id="Group_4018-4" data-name="Group 4018" transform="translate(-8.975 14.18)">
+            <rect id="Rectangle_1508-4" data-name="Rectangle 1508" width="16" height="7" transform="translate(8.975 15.82)" fill="#fff"/>
+            <rect id="Rectangle_1509-4" data-name="Rectangle 1509" width="16" height="7" transform="translate(28.975 15.82)" fill="#fff"/>
+          </g>
+          <g id="Group_4018-5" data-name="Group 4018" transform="translate(-8.975 24.18)">
+            <rect id="Rectangle_1508-5" data-name="Rectangle 1508" width="16" height="7" transform="translate(8.975 15.82)" fill="#fff"/>
+            <rect id="Rectangle_1509-5" data-name="Rectangle 1509" width="16" height="7" transform="translate(28.975 15.82)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Repeat_Grid_7" data-name="Repeat Grid 7" transform="translate(42.115 50.557)" clip-path="url(#clip-path-8)">
+        <g transform="translate(-1317 -839)">
+          <line id="Line_1-16" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+        </g>
+        <g transform="translate(-1255 -839)">
+          <line id="Line_1-17" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+        </g>
+        <g transform="translate(-1193 -839)">
+          <line id="Line_1-18" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+        </g>
+      </g>
+    </g>
+    <g id="Repeat_Grid_9" data-name="Repeat Grid 9" transform="translate(1380.527 550.208) rotate(-90)" clip-path="url(#clip-path-9)">
+      <g transform="translate(-1317 -839)">
+        <line id="Line_1-19" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#3ed8f8" stroke-linecap="round" stroke-width="5"/>
+      </g>
+      <g transform="translate(-1255 -839)">
+        <line id="Line_1-20" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#3ed8f8" stroke-linecap="round" stroke-width="5"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_10" data-name="Repeat Grid 10" transform="translate(1380.527 775.485) rotate(-90)" clip-path="url(#clip-path-9)">
+      <g transform="translate(-1317 -839)">
+        <line id="Line_1-21" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#3ed8f8" stroke-linecap="round" stroke-width="5"/>
+      </g>
+      <g transform="translate(-1255 -839)">
+        <line id="Line_1-22" data-name="Line 1" x2="37" transform="translate(1319.5 841.5)" fill="none" stroke="#3ed8f8" stroke-linecap="round" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>

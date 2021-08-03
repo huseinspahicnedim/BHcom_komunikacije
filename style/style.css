@@ -1,0 +1,589 @@
+/* font-family: 'Poppins', sans-serif; */
+
+* {
+margin:0;
+padding:0;
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+
+.textAllPages {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+  color: white;
+}
+
+.infoAllpages {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+  color: black;
+}
+
+.proizvodiAllPages {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+  color: #63C9EF;
+}
+
+.contentLeft {
+  margin-top: 35%;
+}
+
+.contentRight {
+  margin-top: 15%;
+}
+
+.singleGraphFix {
+  margin-top: 40%;
+}
+
+.contentHeading {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color:white;
+  margin-bottom:3%;
+}
+
+.infoHeading {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color:black;
+  margin-bottom:3%;
+  margin-top:25%;
+}
+
+.scrollIconCenter {
+  margin: 0 auto;
+}
+
+/* Navbar */
+
+.navbar-brand {
+  margin-left: 5%;
+  padding-top: 0;
+  padding-bottom: 10px;
+}
+
+.navbar {
+  width: 100%;
+  background: white;
+  transition: 1s;
+}
+
+nav .navbar-nav li a {
+  color: black !important;
+
+}
+
+.active {
+  border-bottom: 2px solid #63C9EF;
+}
+
+nav .navbar-nav li a:hover {
+  color: #63C9EF !important;
+}
+
+.navbar-nav {
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
+  font-size: 1.1rem;
+}
+
+.navbar-nav > li {
+  padding-left:25px;
+}
+
+ul.navbar-nav {
+  margin-right: 5%;
+}
+
+.btnKontakt {
+  color: black;
+  border-radius: 40px;
+  background: #63C9EF;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.btnKontakt:hover {
+  background: white;
+  border: 1px solid #63C9EF;
+}
+
+/* Main */
+
+.btnMain {
+  color: black;
+  border-radius: 40px;
+  background-color: white;
+  font-weight: bold;
+  font-size: 1.1rem;
+  width: 120px;
+  /* border: 2px solid rgba(108, 89, 179, 0.75); */
+}
+
+.btnMain:hover {
+  background: black;
+  color: white;
+}
+
+.btnMarginafterFirstBtn {
+  margin-left: 3.5%;
+}
+
+.mainHeading {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color:white;
+  margin-bottom:3%;
+}
+
+.marginForHeading3 {
+  margin-bottom: 5%;
+}
+
+#main {
+  background: #67D1F8;
+  background: -webkit-radial-gradient(bottom right, #67D1F8, #9645CC);
+  background: -moz-radial-gradient(bottom right, #67D1F8, #9645CC);
+  background: radial-gradient(to top left, #67D1F8, #9645CC);
+  height: 100%;
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
+}
+
+/* Telefonija */
+
+#telefonija {
+  background: #67D1F8;
+  background: -webkit-radial-gradient(bottom right, #67D1F8, #9645CC);
+  background: -moz-radial-gradient(bottom right, #67D1F8, #9645CC);
+  background: radial-gradient(to top left, #67D1F8, #9645CC);
+  height: 100VH;
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
+ clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+}
+
+.telefonijaImgFix {
+  padding-top: 20%;
+}
+
+/* Proizvodi */
+
+.card {
+  margin-top: 10%;
+}
+
+.containerCard {
+  margin-bottom: 5rem;
+}
+
+.projectMarginTitle {
+  margin-top: 15%;
+}
+
+.projectsMarginText {
+  margin-bottom: 3%;
+}
+
+.projectsMarginButton {
+  margin-bottom: 5%;
+}
+
+.innerCard {
+  overflow: hidden;
+}
+
+.innerCard img {
+  transition: all 1.5s ease;
+}
+
+.innerCard:hover img {
+  transform: scale(1.5);
+  opacity: 0.7;
+}
+
+/* Kupci */
+
+#kupci {
+    text-align: center;
+    background: #67D1F8;
+    background: -webkit-radial-gradient(bottom right, #67D1F8, #9645CC);
+    background: -moz-radial-gradient(bottom right, #67D1F8, #9645CC);
+    background: radial-gradient(to top left, #67D1F8, #9645CC);
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
+    clip-path: polygon(0 20%, 100% 0, 100% 100%, 0 100%);
+  }
+
+  .kupciHeading {
+    padding-top: 5%;
+    margin-bottom: 5%;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+  }
+
+  .kupciHeading2 {
+    font-family: 'Poppins', sans-serif;
+    color:white;
+  }
+
+
+.techH2 {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.techPicture {
+  margin: 20px;
+}
+
+.techFont {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+/* Footer */
+
+.footerText {
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-size: 1.5rem;
+}
+
+/* Media querys */
+
+/* Smartphones (320-480) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+
+/*Main page**********************/
+.logo {
+  width: 100px;
+}
+.navbar-nav {
+  font-size: 1rem;
+}
+#main {
+  height: 100vh
+}
+.contentHeading {
+  font-size: 1.7rem;
+}
+.Heading2mobile{
+  font-size: 1.2rem;
+}
+.btnMarginafterFirstBtn {
+  margin: 0;
+}
+.btnMain {
+  display: block;
+  width: 100%;
+}
+.contentLeft {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.contentRight {
+  text-align: center;
+  margin-top: 15%;
+}
+
+.mainSvg {
+  width: 75%;
+}
+.footerText {
+  font-size: 1.2rem;
+}
+/* Main page End************** */
+
+
+}
+
+/* Large Smartphones (481-768) ----------- */
+@media only screen and (min-device-width : 481px) and (max-device-width : 768px) {
+/* Styles */
+
+/*Main page**********************/
+.logo {
+  width: 100px;
+}
+.navbar-nav {
+  font-size: 1rem;
+}
+#main {
+}
+.contentHeading {
+  font-size: 2rem;
+}
+.Heading2mobile{
+  font-size: 1.5rem;
+}
+.btnMarginafterFirstBtn {
+  margin-left:  20px;
+}
+.btnMain {
+
+}
+.contentLeft {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.contentRight {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.mainSvg {
+  width: 65%;
+}
+.footerText {
+  font-size: 1.4rem;
+}
+/* Main page End************** */
+
+
+}
+
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+/* Styles */
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+/* Styles */
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+/* Styles */
+}
+/**********
+iPad 3
+**********/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+/* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* iPhone 6, 7, 8 ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* iPhone 6+, 7+, 8+ ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* iPhone X ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* iPhone XS Max, XR ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 896px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 896px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* Samsung Galaxy S3 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* Samsung Galaxy S4 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* Samsung Galaxy S5 ----------- */
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* Animations */
+
+.fade-in-up {
+  opacity: 0;
+}
+
+.fade-in-up.animated {
+  opacity: 1;
+}
+
+@keyframes move {
+  0% {
+    transform: translateY(0px);
+  }
+
+  100% {
+    transform: translateY(20px);
+  }
+}
+
+.item {
+    display: none;
+    position: relative;
+    .transition(.3s ease-in-out left);
+}
+
+.scroll {
+  animation: move 1s infinite alternate;
+}
+
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+#loader {
+    display: block;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    width: 150px;
+    height: 150px;
+    margin: -75px 0 0 -75px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #67D1F8;
+    -webkit-animation: spin 2s linear ;
+    animation: spin 2s linear ;
+}
+#loader:before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #67D1F8;
+    -webkit-animation: spin 3s linear ;
+    animation: spin 3s linear ;
+}
+#loader:after {
+    content: "";
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #67D1F8;
+    -webkit-animation: spin 1.5s linear ;
+    animation: spin 1.5s linear ;
+}
+@-webkit-keyframes spin {
+    0%   {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@keyframes spin {
+    0%   {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
